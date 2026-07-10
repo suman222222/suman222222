@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Nepal </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;UI/UX" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **[A personal chatbot ]**
 - 🌱 I’m currently learning **[UI/UX design, code management with VCS]**
 - 👯 I’m looking to collaborate on **[ Open-source machine learning projects]**
-- 💬 Ask me about **[MY Expertise -   Java , Python, HTML, CSS , JavaScript and UI/UX Design]**
+- 💬  **[MY Expertise -   Java , Python, HTML, CSS , JavaScript and UI/UX Design]**
 - 📫 Reach me at: **[kaprisuman222@gmail.com]**
 
 ---
@@ -35,14 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman222222&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suman222222&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
