@@ -21,7 +21,7 @@
 ### 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,aws,git,github,linux,vscode, cisco packet tracer" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,nextjs,git,github,linux,vscode" />
 </p>
 
 
