@@ -10,9 +10,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[A personal chatbot ]**
+- 🔭 I’m 19 years old exploring the tech journey**
 - 🌱 I’m currently learning **[UI/UX design, code management with VCS]**
-- 👯 I’m looking to collaborate on **[ Open-source machine learning projects]**
 - 💬  **[MY Expertise -   Java , Python, HTML, CSS , JavaScript and UI/UX Design]**
 - 📫 Reach me at: **[kaprisuman222@gmail.com]**
 
