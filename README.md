@@ -11,8 +11,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m 19 years old exploring the tech journey**
-- 🌱 I’m currently learning **[UI/UX design, code management with VCS]**
-- 💬  **[MY Expertise -   Java , Python, HTML, CSS , JavaScript and UI/UX Design]**
+- 🌱 I’m currently learning **[AI for content creation , ads and storytelling, Systems , and Algorithm]**
+- 💬  **[MY Expertise -   Java , Python, AI Agents, UI/UX Design]**
 - 📫 Reach me at: **[kaprisuman222@gmail.com]**
 
 ---
